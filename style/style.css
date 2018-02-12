@@ -2,9 +2,6 @@ body{
 	margin: 0;
 	padding: 0;
 }
-*{
-	box-sizing: border-box;
-}
 /* wraps header and front info */
 .banner{
 	background-color: #0086fe;
@@ -100,7 +97,7 @@ body{
 .banner-image img{
 	width: 300px;
 }
-/*
+
 .front-img{
 	width: 200px;
 	position: relative;
@@ -111,7 +108,7 @@ body{
 .front-img img{
 	width: 200px;
 }
-*/
+
 /* Design of about*/
 .about-me{
 	width: 100%;
@@ -369,4 +366,5 @@ body{
 	text-align: center;
 	padding: 10px;	
 }
+
 /*  End of contact-info design*/
